@@ -1,0 +1,15 @@
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.AssemblyInfoInputs.cache
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.AssemblyInfo.cs
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\bin\Debug\net6.0\DynamicArray.exe
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\bin\Debug\net6.0\DynamicArray.deps.json
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\bin\Debug\net6.0\DynamicArray.runtimeconfig.json
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\bin\Debug\net6.0\DynamicArray.dll
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\bin\Debug\net6.0\DynamicArray.pdb
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.dll
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\refint\DynamicArray.dll
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.pdb
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.genruntimeconfig.cache
+C:\Users\wahid\Desktop\DA\Dynamic-Array-Implementation\DynamicArray\DynamicArray\obj\Debug\net6.0\ref\DynamicArray.dll
